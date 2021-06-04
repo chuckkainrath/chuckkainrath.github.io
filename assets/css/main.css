@@ -37,6 +37,14 @@ ol, ul {
 	list-style: none;
 }
 
+.tech {
+	display: inline-block;
+	position: relative;
+	font-size: 1.5rem;
+	padding-left: 20px;
+	bottom: 0px;
+}
+
 blockquote, q {
 	quotes: none;
 }
@@ -70,6 +78,14 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
+}
+
+.logo {
+	width: 100px;
+}
+
+.section-head {
+	text-align: center;
 }
 
 /* Basic */
